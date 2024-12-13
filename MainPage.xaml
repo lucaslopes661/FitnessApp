@@ -21,6 +21,7 @@
         <Button Text="Registrar Refeição" BackgroundColor="DodgerBlue" TextColor="White" />
         <Button Text="Registrar Exercício" BackgroundColor="ForestGreen" TextColor="White" />
         <Button Text="Ver Relatórios" BackgroundColor="Orange" TextColor="White" />
+        <Button Text="Configurar Informações" Clicked="OnConfigureClicked" BackgroundColor="DodgerBlue" TextColor="White" />
 
 
 
